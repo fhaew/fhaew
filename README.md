@@ -1,5 +1,5 @@
 ## olá 👋
-sou Rafael pinheiro😃 programador Front End
+sou Rafael pinheiro😃 programador  Front End
 Atualmente estou aprendendo HTML e CSS, em breve vou mergulhar em JavaScript e Node.js.
 Gosto de aprender coisas novas e estou animado para evoluir na área e criar projetos cada vez melhores!
 
